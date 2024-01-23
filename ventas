@@ -1,0 +1,25 @@
+[
+{
+  "numero_depto": 123,
+  "subtotal": 1500,
+  "descuento": 200,
+  "total": 1300,
+  "productos": [
+    {
+      "nombre": "Producto 1",
+      "cantidad": 2,
+      "precio": 500
+    },
+    {
+      "nombre": "Producto 2",
+      "cantidad": 3,
+      "precio": 300
+    },
+    {
+      "nombre": "Producto 3",
+      "cantidad": 1,
+      "precio": 200
+    }
+  ]
+}
+]
