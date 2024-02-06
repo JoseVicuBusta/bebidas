@@ -14,6 +14,13 @@
     "foto": "https://brindo.cl/1-home_default/1x-coca-cola-botella-1500cc.jpg"
   },
   {
+    "nombre": "Coca Cola 3000cc",
+    "precio": 4000,
+    "disponible": false,
+    "cant": 1,
+    "foto": "https://brindo.cl/1-home_default/1x-coca-cola-botella-1500cc.jpg"
+  },
+  {
     "nombre": "Coca Cola Zero 1500cc",
     "precio": 2200,
     "disponible": false,
@@ -37,7 +44,7 @@
   {
     "nombre": "Sprite Zero 1500cc",
     "precio": 2200,
-    "disponible": false,
+    "disponible": true,
     "cant": 1,
     "foto": "https://brindo.cl/19-home_default/1x-sprite-zero-botella-1500cc.jpg"
   },
