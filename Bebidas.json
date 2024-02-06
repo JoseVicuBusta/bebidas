@@ -16,9 +16,9 @@
   {
     "nombre": "Coca Cola 3000cc",
     "precio": 4000,
-    "disponible": false,
+    "disponible": true,
     "cant": 1,
-    "foto": "https://brindo.cl/1-home_default/1x-coca-cola-botella-1500cc.jpg"
+    "foto": "https://brindo.cl/11-large_default/1x-coca-cola-botella-3000cc.jpg"
   },
   {
     "nombre": "Coca Cola Zero 1500cc",
