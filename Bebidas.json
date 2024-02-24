@@ -54,5 +54,12 @@
     "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/13-home_default/1x-fanta-botella-1500cc.jpg"
+  },
+  {
+    "nombre": "Fanta Zero 1500cc",
+    "precio": 2200,
+    "disponible": false,
+    "cant": 1,
+    "foto": "https://brindo.cl/13-home_default/1x-fanta-botella-1500cc.jpg"
   }
 ]
