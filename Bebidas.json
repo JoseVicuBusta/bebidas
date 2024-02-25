@@ -1,12 +1,5 @@
 [
   {
-    "nombre": "Red Bull 250cc",
-    "precio": 1700,
-    "disponible": true,
-    "cant": 3,
-    "foto": "https://brindo.cl/1665-large_default/1x-energetica-red-bull-lata-250cc.jpg"
-  },
-  {
     "nombre": "Coca Cola 1500cc",
     "precio": 2200,
     "disponible": true,
@@ -54,5 +47,12 @@
     "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/17-large_default/1x-fanta-zero-botella-1500cc.jpg"
+  },
+  {
+    "nombre": "Red Bull 250cc",
+    "precio": 1700,
+    "disponible": true,
+    "cant": 3,
+    "foto": "https://brindo.cl/1665-large_default/1x-energetica-red-bull-lata-250cc.jpg"
   }
 ]
