@@ -1,6 +1,7 @@
 [
   {
 	"categoria":"Bebidas",
+	"activa":true,
 	"productos":
 	[
 	  {
@@ -56,6 +57,7 @@
   },
   {
 	"categoria":"Energeticas",
+	"activa":true,
 	"productos":
 	[
 	  {
@@ -69,6 +71,7 @@
   },
   {
 	"categoria":"Cervezas",
+	"activa":true,
 	"productos":
 	[
 	  {
