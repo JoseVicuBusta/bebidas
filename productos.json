@@ -57,7 +57,7 @@
   },
   {
 	"categoria":"Energeticas",
-	"activa":true,
+	"activa":false,
 	"productos":
 	[
 	  {
