@@ -51,7 +51,7 @@
   {
     "nombre": "Seven Up 1500cc",
     "precio": 2200,
-    "disponible": true,
+    "disponible": false,
     "cant": 1,
     "foto": "https://aquipizza.cl/wp-content/uploads/2021/06/seven-up-2-lnitros.png"
   },
