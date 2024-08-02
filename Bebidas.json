@@ -82,5 +82,13 @@
     "disponible": true,
     "cant": 3,
     "foto": "https://i.ibb.co/wsVb8kQ/Photoroom-20240801-202332.png"
+  },
+  
+  {
+    "nombre": "Coca Cola Zero 1750cc",
+    "precio": 2200,
+    "disponible": true,
+    "cant": 1,
+    "foto": "https://i.ibb.co/swJz7t3/Photoroom-20240801-202421.png"
   }
 ]
