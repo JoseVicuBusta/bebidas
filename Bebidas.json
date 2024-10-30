@@ -2,7 +2,7 @@
   {
     "nombre": "Coca Cola 1500cc",
     "precio": 2200,
-    "disponible": false,
+    "disponible": true,
     "cant": 2,
     "foto": "https://brindo.cl/1-home_default/1x-coca-cola-botella-1500cc.jpg"
   },
@@ -79,7 +79,7 @@
   {
     "nombre": "Coca Cola 1750cc",
     "precio": 2500,
-    "disponible": true,
+    "disponible": false,
     "cant": 2,
     "foto": "https://i.ibb.co/wsVb8kQ/Photoroom-20240801-202332.png"
   },
@@ -87,7 +87,7 @@
   {
     "nombre": "Coca Cola Zero 1750cc",
     "precio": 2500,
-    "disponible": true,
+    "disponible": false,
     "cant": 1,
     "foto": "https://i.ibb.co/swJz7t3/Photoroom-20240801-202421.png"
   }
