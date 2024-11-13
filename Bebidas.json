@@ -1,56 +1,56 @@
 [
   {
     "nombre": "Coca Cola 1500cc",
-    "precio": 2500,
+    "precio": 2300,
     "disponible": true,
     "cant": 2,
     "foto": "https://brindo.cl/1-home_default/1x-coca-cola-botella-1500cc.jpg"
   },
   {
     "nombre": "Coca Cola Zero 1500cc",
-    "precio": 2500,
+    "precio": 2300,
     "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/9-home_default/1x-coca-cola-sin-azucar-botella-1500cc.jpg"
   },
   {
     "nombre": "Coca Cola Light 1500cc",
-    "precio": 2500,
+    "precio": 2300,
     "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/4-large_default/1x-coca-cola-light-botella-1500cc.jpg"
   },
   {
     "nombre": "Sprite 1500cc",
-    "precio": 2500,
+    "precio": 2300,
     "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/21-home_default/1x-sprite-botella-1500cc.jpg"
   },
   {
     "nombre": "Sprite Zero 1500cc",
-    "precio": 2500,
+    "precio": 2300,
     "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/19-home_default/1x-sprite-zero-botella-1500cc.jpg"
   },
   {
     "nombre": "Fanta 1500cc",
-    "precio": 2500,
+    "precio": 2300,
     "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/13-home_default/1x-fanta-botella-1500cc.jpg"
   },
   {
     "nombre": "Fanta Zero 1500cc",
-    "precio": 2500,
+    "precio": 2300,
     "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/17-large_default/1x-fanta-zero-botella-1500cc.jpg"
   },
   {
     "nombre": "Seven Up 1500cc",
-    "precio": 2200,
+    "precio": 2300,
     "disponible": false,
     "cant": 1,
     "foto": "https://aquipizza.cl/wp-content/uploads/2021/06/seven-up-2-lnitros.png"
