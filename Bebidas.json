@@ -9,7 +9,7 @@
   {
     "nombre": "Coca Cola Zero 1500cc",
     "precio": 2300,
-    "disponible": false,
+    "disponible": true,
     "cant": 3,
     "foto": "https://brindo.cl/9-home_default/1x-coca-cola-sin-azucar-botella-1500cc.jpg"
   },
