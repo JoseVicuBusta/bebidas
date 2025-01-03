@@ -52,14 +52,14 @@
     "nombre": "Pepsi 1750cc",
     "precio": 2300,
     "disponible": true,
-    "cant": 1,
+    "cant": 3,
     "foto": "https://i.postimg.cc/Qdp5Hzs9/Photoroom-20241215-004947.png"
   },
   {
     "nombre": "Pepsi Zero 1750cc",
     "precio": 2300,
-    "disponible": false,
-    "cant": 1,
+    "disponible": true,
+    "cant": 3,
     "foto": "https://i.postimg.cc/j5NhK4vt/Photoroom-20241215-005503.png"
   },
   {
