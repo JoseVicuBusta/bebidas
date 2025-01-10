@@ -3,7 +3,7 @@
     "nombre": "Coca Cola 1500cc",
     "precio": 2300,
     "disponible": true,
-    "cant": 2,
+    "cant": 4,
     "foto": "https://brindo.cl/1-home_default/1x-coca-cola-botella-1500cc.jpg"
   },
   {
@@ -31,7 +31,7 @@
     "nombre": "Sprite Zero 1500cc",
     "precio": 2300,
     "disponible": true,
-    "cant": 2,
+    "cant": 1,
     "foto": "https://brindo.cl/19-home_default/1x-sprite-zero-botella-1500cc.jpg"
   },
   {
@@ -52,43 +52,15 @@
     "nombre": "Pepsi 1750cc",
     "precio": 2300,
     "disponible": false,
-    "cant": 3,
+    "cant": 1,
     "foto": "https://i.postimg.cc/Qdp5Hzs9/Photoroom-20241215-004947.png"
   },
   {
     "nombre": "Pepsi Zero 1750cc",
     "precio": 2300,
     "disponible": true,
-    "cant": 3,
+    "cant": 5,
     "foto": "https://i.postimg.cc/j5NhK4vt/Photoroom-20241215-005503.png"
-  },
-  {
-    "nombre": "Seven Up 1500cc",
-    "precio": 2300,
-    "disponible": false,
-    "cant": 1,
-    "foto": "https://aquipizza.cl/wp-content/uploads/2021/06/seven-up-2-lnitros.png"
-  },
-  {
-    "nombre": "Royal Guard 470cc",
-    "precio": 1000,
-    "disponible": false,
-    "cant": 3,
-    "foto": "https://brindo.cl/1102-home_default/1x-austral-calafate-5-botella-330cc.jpg"
-  },
-  {
-    "nombre": "Budweiser 354cc",
-    "precio": 900,
-    "disponible": false,
-    "cant": 2,
-    "foto": "https://brindo.cl/3287-large_default/1x-budweiser-48-lata-710cc.jpg"
-  },
-  {
-    "nombre": "Red Bull 250cc",
-    "precio": 1700,
-    "disponible": false,
-    "cant": 1,
-    "foto": "https://brindo.cl/1665-large_default/1x-energetica-red-bull-lata-250cc.jpg"
   },
   {
     "nombre": "Coca Cola 1750cc",
@@ -97,7 +69,6 @@
     "cant": 2,
     "foto": "https://i.ibb.co/wsVb8kQ/Photoroom-20240801-202332.png"
   },
-  
   {
     "nombre": "Coca Cola Zero 1750cc",
     "precio": 2500,
