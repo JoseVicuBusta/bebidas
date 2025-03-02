@@ -30,7 +30,7 @@
   {
     "nombre": "Sprite Zero 1500cc",
     "precio": 2300,
-    "disponible": true,
+    "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/19-home_default/1x-sprite-zero-botella-1500cc.jpg"
   },
@@ -44,7 +44,7 @@
   {
     "nombre": "Fanta Zero 1500cc",
     "precio": 2300,
-    "disponible": true,
+    "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/17-large_default/1x-fanta-zero-botella-1500cc.jpg"
   },
