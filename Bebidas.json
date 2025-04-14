@@ -51,7 +51,7 @@
   {
     "nombre": "Pepsi 1500cc",
     "precio": 2300,
-    "disponible": true,
+    "disponible": false,
     "cant": 2,
     "foto": "https://i.postimg.cc/yYqJR62p/Photoroom-20250111-154327.png"
   },
