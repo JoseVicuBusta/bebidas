@@ -58,7 +58,7 @@
   {
     "nombre": "Pepsi Zero 1750cc",
     "precio": 2300,
-    "disponible": true,
+    "disponible": false,
     "cant": 1,
     "foto": "https://i.postimg.cc/DZNKGZZC/Photoroom-20250111-154940.png"
   },
