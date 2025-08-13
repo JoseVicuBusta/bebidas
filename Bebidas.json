@@ -37,8 +37,7 @@
   {
     "nombre": "Fanta 1500cc",
     "precio": 2400,
-    "disponible": fals
-    e,
+    "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/13-home_default/1x-fanta-botella-1500cc.jpg"
   },
@@ -64,6 +63,7 @@
     "foto": "https://i.postimg.cc/DZNKGZZC/Photoroom-20250111-154940.png"
   }
 ]
+
 
 
 
