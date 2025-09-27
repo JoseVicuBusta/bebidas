@@ -58,11 +58,12 @@
   {
     "nombre": "Pepsi Zero 1500cc",
     "precio": 2400,
-    "disponible": true, 
+    "disponible": false, 
     "cant": 1,
     "foto": "https://i.postimg.cc/DZNKGZZC/Photoroom-20250111-154940.png"
   }
 ]
+
 
 
 
