@@ -2,14 +2,14 @@
   {
     "nombre": "Coca Cola 1500cc",
     "precio": 2400,
-    "disponible": false,
+    "disponible": true,
     "cant": 1,
     "foto": "https://brindo.cl/1-home_default/1x-coca-cola-botella-1500cc.jpg"
   },
   {
     "nombre": "Coca Cola Zero 1500cc",
     "precio": 2400,
-    "disponible": false,
+    "disponible": true,
     "cant": 1, 
     "foto": "https://brindo.cl/9-home_default/1x-coca-cola-sin-azucar-botella-1500cc.jpg"
   },
@@ -23,7 +23,7 @@
   {
     "nombre": "Sprite 1500cc",
     "precio": 2400,
-    "disponible": false, 
+    "disponible": true, 
     "cant": 1,
     "foto": "https://brindo.cl/21-home_default/1x-sprite-botella-1500cc.jpg"
   },
@@ -44,25 +44,26 @@
   {
     "nombre": "Fanta Zero 1500cc",
     "precio": 2400,
-    "disponible": false,
+    "disponible": true,
     "cant": 1,
     "foto": "https://brindo.cl/17-large_default/1x-fanta-zero-botella-1500cc.jpg"
   },
   {
     "nombre": "Pepsi 1500cc",
     "precio": 2400,
-    "disponible": true,
+    "disponible": false,
     "cant": 1,
     "foto": "https://i.postimg.cc/yYqJR62p/Photoroom-20250111-154327.png"
   },
   {
     "nombre": "Pepsi Zero 1500cc",
     "precio": 2400,
-    "disponible": false, 
+    "disponible": true, 
     "cant": 1,
     "foto": "https://i.postimg.cc/DZNKGZZC/Photoroom-20250111-154940.png"
   }
 ]
+
 
 
 
