@@ -1,68 +1,69 @@
 [
   {
-    "nombre": "Coca Cola 1500cc",
+    "nombre": "Coca Cola 1.5 LT",
     "precio": 2400,
     "disponible": true,
     "cant": 1,
     "foto": "https://brindo.cl/1-home_default/1x-coca-cola-botella-1500cc.jpg"
   },
   {
-    "nombre": "Coca Cola Zero 1500cc",
+    "nombre": "Coca Cola Zero 1.5 LT",
     "precio": 2400,
     "disponible": true,
     "cant": 1, 
     "foto": "https://brindo.cl/9-home_default/1x-coca-cola-sin-azucar-botella-1500cc.jpg"
   },
   {
-    "nombre": "Coca Cola Light 1500cc",
+    "nombre": "Coca Cola Light 1.5 LT",
     "precio": 2400,
     "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/4-large_default/1x-coca-cola-light-botella-1500cc.jpg"
   },
   {
-    "nombre": "Sprite 1500cc",
+    "nombre": "Sprite 1.5 LT",
     "precio": 2400,
     "disponible": true, 
     "cant": 1,
     "foto": "https://brindo.cl/21-home_default/1x-sprite-botella-1500cc.jpg"
   },
   {
-    "nombre": "Sprite Zero 1500cc",
+    "nombre": "Sprite Zero 1.5 LT",
     "precio": 2400,
     "disponible": true,
     "cant": 1,
     "foto": "https://brindo.cl/19-home_default/1x-sprite-zero-botella-1500cc.jpg"
   },
   {
-    "nombre": "Fanta 1500cc",
+    "nombre": "Fanta 1.5 LT",
     "precio": 2400,
     "disponible": true,
     "cant": 1,
     "foto": "https://brindo.cl/13-home_default/1x-fanta-botella-1500cc.jpg"
   },
   {
-    "nombre": "Fanta Zero 1500cc",
+    "nombre": "Fanta Zero 1.5 LT",
     "precio": 2400,
     "disponible": true,
     "cant": 1,
     "foto": "https://brindo.cl/17-large_default/1x-fanta-zero-botella-1500cc.jpg"
   },
   {
-    "nombre": "Pepsi 1500cc",
+    "nombre": "Pepsi 1.5 LT",
     "precio": 2400,
     "disponible": true,
     "cant": 1,
     "foto": "https://imgproxy.treinta.co/sig/size:384:::/quality:75/plain/https%3A%2F%2Fus-east-1-prod-treinta-assets-bucket.s3.amazonaws.com%2F33837e17-632b-5262-84ca-a79dbdaf1c24.png"
   },
   {
-    "nombre": "Pepsi Zero 1500cc",
+    "nombre": "Pepsi Zero 1.5 LT",
     "precio": 2400,
     "disponible": true, 
     "cant": 1,
     "foto": "https://imgproxy.treinta.co/sig/size:384:::/quality:75/plain/https%3A%2F%2Fus-east-1-prod-treinta-assets-bucket.s3.amazonaws.com%2Frn_image_picker_lib_temp_0c1e95b1-73ac-4ce8-8c78-7d01de6c11ec.png.png"
   }
 ]
+
 
 
 
