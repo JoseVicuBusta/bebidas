@@ -9,7 +9,7 @@
   {
     "nombre": "Coca Cola Zero 1.5 LT",
     "precio": 2500,
-    "disponible": true,
+    "disponible": false,
     "cant": 1, 
     "foto": "https://brindo.cl/9-home_default/1x-coca-cola-sin-azucar-botella-1500cc.jpg"
   },
@@ -30,7 +30,7 @@
   {
     "nombre": "Sprite Zero 1.5 LT",
     "precio": 2500,
-    "disponible": true,
+    "disponible": false,
     "cant": 1,
     "foto": "https://brindo.cl/19-home_default/1x-sprite-zero-botella-1500cc.jpg"
   },
